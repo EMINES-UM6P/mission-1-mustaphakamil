@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Projet1</string>
+    <string name="Name">Projet1</string>
+    <string name="Email">Projet1</string>
+    <string name="Password">Projet1</string>
+
+
 
     <!-- // TODO : Create 3 variables (Name, Email, Password) -->
 
